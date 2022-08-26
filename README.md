@@ -1,7 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=GreyGreyWolf)
+**GreyGreyWolf/GreyGreyWolf/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # Привет, я Стас!
 Я начинающий специалист по Data Science, который любит машинное обучение, аналитику и программирование.
 Открыт к предложениям о работе и хочу применить свои знания в боевом проекте!
+
 \#opentowork
 
 ## Мои контакты:
@@ -11,7 +14,7 @@
 ## Мое резюме:
  - [Резюме]
 
-# Мои сертификаты:
+## Мои сертификаты:
  - Яндекс.Практикум: Специалист по Data Science 
 [RUS](https://github.com/GreyGreyWolf/Grey_Grey_Wolf/certificate.pdf)/[EN](https://github.com/GreyGreyWolf/Grey_Grey_Wolf/certificate_en.pdf)
  - Hexlet: Python Разработчик 
@@ -55,3 +58,5 @@
   <td>Завершен</td>
 </tr>
 </table>
+
+#SOome text
