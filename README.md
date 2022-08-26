@@ -4,21 +4,21 @@
 Открыт к предложениям о работе и хочу применить свои знания в боевом проекте!
 \#opentowork
 
-# Мои контакты:
+## Мои контакты:
 - [wolfdieattheend@yandex.ru](mailto:wolfdieattheend@yandex.ru) - пишите мне на Email.
 - [@Grey_Grey_Wolf](https://t.me/Grey_Grey_Wolf) - мой telegram.
 
-# Мое резюме:
+## Мое резюме:
  - [Резюме]
 
 # Мои сертификаты:
  - Яндекс.Практикум: Специалист по Data Science 
 [RUS](https://github.com/GreyGreyWolf/Grey_Grey_Wolf/certificate.pdf)/[EN](https://github.com/GreyGreyWolf/Grey_Grey_Wolf/certificate_en.pdf)
  - Hexlet: Python Разработчик 
-[En](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_eng.png)/[RU](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_ru.png)
+[EN](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_eng.png)/[RUS](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_ru.png)
  - Яндекс.Практикум: Инженер облачных сервисов [RUS](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_cloud_services_engineer.pdf)
 
-# Курсы:
+## Курсы:
 <table>
 <tr>
   <th>Название курса</th>
@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-# Мои проекты:
+## Мои проекты:
 <table>
 <tr>
   <th>Название проекта</th>
