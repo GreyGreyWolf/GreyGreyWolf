@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=GreyGreyWolf)
-**GreyGreyWolf/GreyGreyWolf/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Привет, я Стас!
 Я начинающий специалист по Data Science, который любит машинное обучение, аналитику и программирование.
