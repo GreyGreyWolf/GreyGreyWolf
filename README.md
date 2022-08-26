@@ -21,7 +21,7 @@
 [EN](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_eng.png)/[RUS](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_ru.png)
  - Яндекс.Практикум: Инженер облачных сервисов [RUS](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_cloud_services_engineer.pdf)
 
-## Курсы:
+## Мои курсы:
 <table>
 <tr>
   <th>Название курса</th>
@@ -32,9 +32,9 @@
   <td><a href = "https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science">Яндекс.Практикум: Специалист Data Science</a></td>
   <td>Дистанционная</td>
   <td>Завершен</td>
-</tr> 
+</tr>
 <tr>
-  <td><a href = "https://github.com/GreyGreyWolf/Hexlet_python_developer>Hexlet:Python разработчик</a></td>
+  <td><a href = "https://github.com/GreyGreyWolf/Hexlet_python_developer">Hexlet:Python разработчик</a></td>
   <td>Дистанционная</td>
   <td>Завершен</td>
 </tr>
@@ -58,5 +58,3 @@
   <td>Завершен</td>
 </tr>
 </table>
-
-#SOome text
