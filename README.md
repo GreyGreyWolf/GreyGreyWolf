@@ -15,8 +15,8 @@
  - Яндекс.Практикум: Специалист по Data Science 
 [RUS](https://github.com/GreyGreyWolf/Grey_Grey_Wolf/certificate.pdf)/[EN](https://github.com/GreyGreyWolf/Grey_Grey_Wolf/certificate_en.pdf)
  - Hexlet: Python Разработчик 
-[En](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_ru.png)/[RU](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_eng.png)
- - Яндекс.Практикум: Инженер облачных сервисов [RUS](https://github.com/GreyGreyWolf/Grey_Grey_Wolf/blob/master/certificate_cloud_services_engineer.pdf)
+[En](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_eng.png)/[RU](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_ru.png)
+ - Яндекс.Практикум: Инженер облачных сервисов [RUS](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_cloud_services_engineer.pdf)
 
 # Курсы:
 <table>
@@ -40,9 +40,9 @@
 # Мои проекты:
 <table>
 <tr>
-  <th>Название</th>
-  <th>Описание</th>
-  <th>Статус</th>
+  <th>Название проекта</th>
+  <th>Описание 	проекта</th>
+  <th>Статус проекта</th>
 </tr>
 <tr>
   <td><a href = "https://vpravoga.ru/">vpravoga.ru</a></td>
