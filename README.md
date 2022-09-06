@@ -15,7 +15,7 @@
 
 ## Мои сертификаты:
  - Яндекс.Практикум: Специалист по Data Science 
-[RUS](https://github.com/GreyGreyWolf/Grey_Grey_Wolf/certificate.pdf)/[EN](https://github.com/GreyGreyWolf/Grey_Grey_Wolf/certificate_en.pdf)
+[RUS](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/Yandex_DS_certificate_rus.pdf)/[EN](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/Yandex_DS_certificate_en.pdf)
  - Hexlet: Python Разработчик 
 [EN](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_eng.png)/[RUS](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_hexlet_python_ru.png)
  - Яндекс.Практикум: Инженер облачных сервисов [RUS](https://github.com/GreyGreyWolf/GreyGreyWolf/blob/master/certificate_cloud_services_engineer.pdf)
