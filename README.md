@@ -57,3 +57,16 @@
   <td>Завершен</td>
 </tr>
 </table>
+
+## Kaggle
+
+<table>
+<tr>
+  <th>Название соревнования</th>
+  <th>Результат</th>
+</tr>
+<tr>
+<td>[Titanic_Machine_Learning_From_Disaster](https://github.com/GreyGreyWolf/Kaggle/tree/master/Machine_Learning_from_Disaster)</td>
+<td>Accuracy-0.81818</td>
+</tr>
+</table>
