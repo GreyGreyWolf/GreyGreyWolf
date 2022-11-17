@@ -66,7 +66,7 @@
   <th>Результат</th>
 </tr>
 <tr>
-<td>< a href="https://github.com/GreyGreyWolf/Kaggle/tree/master/Machine_Learning_from_Disaster">Titanic_Machine_Learning_From_Disaster</a></td>
+<td><a href = "https://github.com/GreyGreyWolf/Kaggle/tree/master/Machine_Learning_from_Disaster">Titanic_Machine_Learning_From_Disaster</a></td>
 <td>Accuracy-0.81818</td>
 </tr>
 </table>
