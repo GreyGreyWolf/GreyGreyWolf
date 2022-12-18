@@ -70,3 +70,18 @@
 <td>Accuracy-0.81818</td>
 </tr>
 </table>
+
+## Hackathons
+
+<table>
+<tr>
+  <th>Название соревнования</th>
+  <th>Результат</th>
+</tr>
+<tr>
+<td><a href = 
+"https://github.com/GreyGreyWolf/Hackathons/tree/master/HSE_12_22">Hackathon from the Higher School of Economics: 
+"Airline passenger satisfaction"</a></td>
+<td>The team took the second place.(Accuracy: 0.9642)</td>
+</tr>
+</table>
